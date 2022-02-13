@@ -10,5 +10,6 @@ public class Compiling {
   }
 }
 
-//javac Compiling.java - compiles
+//javac fileName.java - compiles
+//java fileName - executes
 //ls - views files in directory
