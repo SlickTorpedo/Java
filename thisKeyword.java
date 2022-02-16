@@ -27,3 +27,6 @@ public class SavingsAccount{
 }
 
 //i think and don't quote me but i'm pretty sure these are like local variables {_likeThis} in Skript...
+//EDIT:
+//WAIT I FIGURED IT OUT
+//It's when your working with options it's the current one your working with so if you're working with Zeus then it replaces this. with Zeus. in the code so you don't have to know who you're working with!
