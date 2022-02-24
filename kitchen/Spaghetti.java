@@ -1,0 +1,3 @@
+class Spaghetti extends Noodle {
+  
+}
